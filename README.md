@@ -1,5 +1,6 @@
 # DoS-System
 Pls read the license, that is very very important
+ONLY executable in WINDOWS
 
 # Getting Started
 To start a DoS follow the instructions
