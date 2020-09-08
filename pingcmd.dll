@@ -1,0 +1,5 @@
+cmd><<>><>
+new>scripting´{
+ping set localhost
+ping 2 cmd setcmd2 sethostvar<host>
+baseonladmin>cmd>}

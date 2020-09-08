@@ -1,0 +1,8 @@
+upload
+	{LICENSE}
+		github
+winlib
+		{iostream;win2stream;p2p;streamio-->io
+			wp: activex;;;setruntime21
+							}
+	upvd2<null>	

@@ -1,0 +1,25 @@
+onlyIf>callto:pkgunt>[script]
+
+connect>host:::ICR>$randomPort>><host>
+
+unpkg[intScript{[>>>atc>><]c://.TEMP/>>host>
+call:host
+	ping set 0
+else{script}
+if %var%
+if %var%
+
+		call:var
+else
+>]
+}
+		}
+	}
+}
+
+launchpad
+	to
+else if
+to	if
+		to <host>
+[unpkg]<c://.TEMP/>
